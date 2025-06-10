@@ -1,0 +1,4 @@
+ch01/deeplabv3_xception65_ade20k.h5
+ch01/xception_pascalvoc.pb
+ch01/yolov3.weights
+ch01/yolov8x-seg.pt
